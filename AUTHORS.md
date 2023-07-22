@@ -3,12 +3,12 @@
 The following developers have contributed to the MedPlant project:
 
 - [Swarup](https://github.com/swarupe7)
-- [abuharish](https://github.com/abuharish02)
+- [Abu Harish](https://github.com/abuharish02)
 - [Srivatsav](https://github.com/onkarsrivastava)
 - [Subha](https://github.com/subhaDTECH)
 - [Sourav](https://github.com/sourav7274)
 - [Mahesh](https://github.com/maheshravuri)
-- 
+  
 
 
 We extend our sincere gratitude to all these developers for their valuable contributions to the MedPlant project.
